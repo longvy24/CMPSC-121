@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\school work\cmpsc 121\magic number\magic number\source.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Magic Number.vcxproj -> E:\School Work\CMPSC 121\Magic Number\Debug\Magic Number.exe
+  Magic Number.vcxproj -> E:\School Work\CMPSC 121\Magic Number\Debug\Magic Number.pdb (Partial PDB)
